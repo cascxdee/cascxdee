@@ -1,21 +1,7 @@
 ### Hi i'm Jay.
 ### basically the dude with no life and loves computers? yeah idk what to put here.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
-<a href="https://twitter.com/Not_Jayl">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://github.com/NotJayl">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<br/>
-<br/>
-
-### Contacts:
-* Discord: Jayyy#6076
-* Twitter: Not_Jayl
+[![](https://discord.c99.nl/widget/theme-1/697541992770437130.png)](https://discord.com/users/696481194443014174)
 
 ### Things i've used:
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
@@ -25,3 +11,13 @@
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+
+### Github Stats:
+<br>
+<br>
+  <summary>:zap: Github Stats</summary>
+  <br>
+  <img align="left" alt="NotJayl's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NotJayl&show_icons=true&theme=dark&count_private=true"/>
+  <br>
+  <br>
+  <img align="left" alt="JeanOUINA's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanOUINA&layout=compact&theme=dark&count_private=true"/>
