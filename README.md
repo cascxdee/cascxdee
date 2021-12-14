@@ -1,6 +1,6 @@
 ### Hi i'm Jay.
 
-[![](https://discord.c99.nl/widget/theme-1/697541992770437130.png)](https://discord.com/users/696481194443014174)
+# i do random stuff idk
 
 ### Things i've used:
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
