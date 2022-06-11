@@ -7,10 +7,7 @@ wsg g i'm Jay
 - TypeScript
 - NodeJS
 - Visual Studio Code
-
-### Projects
-[Kxrma](https://jxyy.carrd.co/#kxrma) - Soon to be a new utility bot for Discord servers.
-
+- Roblox Lua
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Jayy&show_icons=true&theme=material-palenight)
 
