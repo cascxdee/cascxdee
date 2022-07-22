@@ -2,7 +2,7 @@
 <h3 align="center">Some nerd who's interested in computer science and astronomy.</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,lua,mongodb,cloudflare,stackoverflow,discord" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,lua,mongodb,cloudflare,netlify,stackoverflow,discord" />
 </p>
 
 <details>
