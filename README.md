@@ -1,7 +1,9 @@
 <h1 align="center">I'm Jay</h1>
 <h3 align="center">Some nerd who's interested in computer science and astronomy.</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,lua,mongodb,cloudflare,stackoverflow,discord)](https://skillicons.dev)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,lua,mongodb,cloudflare,stackoverflow,discord" />
+</p>
 
 <details>
   <summary>Stats</summary>
