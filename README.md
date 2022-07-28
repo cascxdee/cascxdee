@@ -24,5 +24,4 @@
     <img src="https://skillicons.dev/icons?i=cloudflare,stackoverflow,discord" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Jayy&show_icons=true&theme=material-palenight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Jayy&layout=compact&theme=dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Jayy&show_icons=true&theme=material-palenight) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Jayy&layout=compact&theme=dark&count_private=true)
