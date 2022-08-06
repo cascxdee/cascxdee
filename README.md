@@ -4,7 +4,7 @@
 <h3 align="center">Some nerd who's interested in computer science and astronomy.</h3>
 
 <div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,html,css,lua,vscode,visualstudio,netlify,mongodb,cloudflare,stackoverflow,discord" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,js,html,css,lua,vscode,netlify,mongodb,cloudflare,stackoverflow,discord" />
 </div>
 
 <details>
