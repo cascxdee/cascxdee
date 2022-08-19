@@ -4,12 +4,10 @@
 <h3 align="center">Some nerd who's interested in computer science and astronomy.</h3>
 
 <div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,nodejs,vscode,netlify,cloudflare,mongodb,discord" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python,nodejs,vscode,netlify,cloudflare,mongodb,github,discord" />
 </div>
 
-<details>
-  <summary>Stats</summary>
+<h1>Stats</h1>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Jayy&show_icons=true&theme=material-palenight) 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Jayy&layout=compact&theme=dark&count_private=true)
-</details>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Jayy&show_icons=true&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Jayy&layout=compact&theme=dark&count_private=true)
