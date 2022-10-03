@@ -8,6 +8,7 @@
 Not-Jayy
 -----------
 OS:        windows
+DE:        Cyber Security and Computer Science enthusiast from the UK.
 Shell:     PS
 Repos:     2
 Uptime:    15 years
