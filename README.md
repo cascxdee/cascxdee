@@ -12,5 +12,5 @@ Shell:     PS
 Repos:     2
 Uptime:    15 years
 Discord:   697541992770437130
-Languages: JavaScript, TypeScript, Html, CSS, Lua
+Langs/Tools: JavaScript, TypeScript, Lua, HTML, CSS, NodeJS, Bash, VSCode
 ```
