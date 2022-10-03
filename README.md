@@ -15,4 +15,9 @@ Uptime:    15 years
 Discord:   697541992770437130
 Skills:    JavaScript, TypeScript, Lua, HTML, CSS, NodeJS, Bash, VSCode
 ```
-[![](https://discord.c99.nl/widget/theme-4/697541992770437130.png)](https://discord.com/users/697541992770437130)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://discord.c99.nl/widget/theme-4/697541992770437130.png"/>
+  </a>
+</p>
