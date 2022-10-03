@@ -17,7 +17,7 @@ Skills:    JavaScript, TypeScript, Lua, HTML, CSS, NodeJS, Bash, VSCode
 ```
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://discord.com/users/697541992770437130">
     <img src="https://discord.c99.nl/widget/theme-4/697541992770437130.png"/>
   </a>
 </p>
