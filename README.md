@@ -2,8 +2,6 @@
 > neofetch
 ```
 
-<img src="Pfp.png" align="left" width=200>
-
 ```cs
 Not-Jayy
 -----------
