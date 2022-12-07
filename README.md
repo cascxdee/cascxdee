@@ -6,7 +6,7 @@
 Not-Jayy
 -----------
 OS:        windows
-DE:        Cyber Security and Computer Science enthusiast from the UK.
+DE:        Professional breaker of things, and has no idea on what he is doing half the time.
 Shell:     PS
 Repos:     5
 Uptime:    15 years
