@@ -1,15 +1,21 @@
-```bash
-> neofetch
-```
+<div align="center">
+ <img width="900" src="https://cdn.discordapp.com/attachments/991762029662711910/1091376181892358214/Jay.ts.png">
+</div>
 
-```bash
-Not-Jayy
------------
-OS:        windows
-DE:        Professional breaker of things, and has no idea on what he is doing half the time.
-Shell:     PS
-Repos:     3
-Uptime:    15 years
-Discord:   697541992770437130
-Skills:    JavaScript, TypeScript, HTML, CSS, Lua, NodeJS, VSCode, Git, MongoDB, Discord
-```
+# about
+the names jay im basically the guy who only devs when he can be bothered or has ideas, but tech is pretty cool.
+
+## stalk me
+[[web]](https://jayts.xyz) [[twitter]](https://twitter.com/YouFoundJay_) [[discord]](https://discord.gg/47fWbK5QYB)
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python" />
+  </a>
+</p>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,git,mongodb,discord" />
+  </a>
+</p>
