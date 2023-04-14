@@ -16,6 +16,6 @@ the names jay im basically the guy who only devs when he can be bothered or has 
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,git,mongodb,discord" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
   </a>
 </p>
