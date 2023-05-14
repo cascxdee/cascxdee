@@ -1,21 +1,13 @@
-<div align="center">
- <img width="900" src="https://cdn.discordapp.com/attachments/922451338766479402/1099306016048418857/Jay.ts.png">
-</div>
+# 👋 Hi i'm Jay
+Hi i'm Jay, some developer from the **United Kingdom** developing whatever he can whenever he can and also has a massive passion for technology.
+Find me on [Twitter](https://twitter.com/YouFoundJay_) or over at [Discord](https://discord.gg/47fWbK5QYB), thanks for stopping by!
 
-# about
-the names jay im basically the guy who only devs when he can be bothered or has ideas, but tech is pretty cool.
-
-## stalk me
-[[web]](https://jayts.xyz) [[twitter]](https://twitter.com/YouFoundJay_) [[discord]](https://discord.gg/47fWbK5QYB)
-
+## Languages / Technologies
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python,nodejs,mongodb,cloudflare" />
   </a>
 </p>
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
-  </a>
-</p>
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Jayy&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Jayy&layout=donut)](https://github.com/Not-Jayy/github-readme-stats)
