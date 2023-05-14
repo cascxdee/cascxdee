@@ -1,6 +1,6 @@
 # 👋 Hi i'm Jay
 Hi i'm Jay, some developer from the **United Kingdom** developing whatever he can whenever he can and also has a massive passion for technology.
-Find me on [Twitter](https://twitter.com/YouFoundJay_) or over at [Discord](https://discord.gg/47fWbK5QYB), thanks for stopping by!
+Find me on [Twitter](https://twitter.com/jaytsdev) or over at [Discord](https://discord.gg/47fWbK5QYB), thanks for stopping by!
 
 ## Languages / Technologies
 <p>
