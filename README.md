@@ -9,5 +9,5 @@ Find me on [Twitter](https://twitter.com/jaytsdev) or over at [Discord](https://
   </a>
 </p>
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Not-Jayy&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Jayy&layout=donut)](https://github.com/Not-Jayy/github-readme-stats)
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaytsdev&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaytsdev&layout=donut)](https://github.com/Not-Jayy/github-readme-stats)
