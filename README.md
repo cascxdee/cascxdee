@@ -3,7 +3,9 @@ Hi i'm Jay, some developer from the **United Kingdom** developing whatever he ca
 Find me on [Twitter](https://twitter.com/jaytsdev) or over at [Discord](https://discord.gg/47fWbK5QYB), thanks for stopping by!
 
 <h1 align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/697541992770437130.png" alt="jay.ts#1337 ( 697541992770437130 )"/>
+   <a href="https://discord.com/users/456857241593708554">
+      <img src="https://discord.c99.nl/widget/theme-4/697541992770437130.png" alt="jay.ts#1337 ( 697541992770437130 )"/>
+     </a>
 </h1>
 
 ## Languages / Technologies
