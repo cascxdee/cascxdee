@@ -17,3 +17,5 @@ Find me on [Discord](https://discord.gg/47fWbK5QYB) or over at [Twitter](https:/
 
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaytsdev&show_icons=true&theme=nightowl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaytsdev&layout=donut)](https://github.com/Not-Jayy/github-readme-stats)
+
+<img src="https://cdn.discordapp.com/attachments/1103912751157485570/1121198661901238434/IMG_2244.png">
