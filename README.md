@@ -4,7 +4,7 @@ Find me on [Discord](https://discord.gg/47fWbK5QYB) or over at [Twitter](https:/
 
 <h1 align="center">
    <a href="https://discord.com/users/697541992770437130">
-      <img src="https://discord.c99.nl/widget/theme-4/697541992770437130.png" alt="jay.ts#1337 ( 697541992770437130 )"/>
+      <img src="https://discord.c99.nl/widget/theme-4/697541992770437130.png" alt="nlghtleak ( 697541992770437130 )"/>
      </a>
 </h1>
 
@@ -15,7 +15,7 @@ Find me on [Discord](https://discord.gg/47fWbK5QYB) or over at [Twitter](https:/
   </a>
 </p>
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaytsdev&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaytsdev&layout=donut)](https://github.com/Not-Jayy/github-readme-stats)
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlghtleak&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlghtleak&layout=donut)](https://github.com/Not-Jayy/github-readme-stats)
 
 <img src="https://cdn.discordapp.com/attachments/1103912751157485570/1126975788256854147/nlghtleak.png">
