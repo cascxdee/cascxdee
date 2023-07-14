@@ -11,7 +11,7 @@ Find me on [Discord](https://discord.gg/47fWbK5QYB) or over at [Twitter](https:/
 ## Languages / Technologies
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python,java,nodejs,mongodb,docker,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,nodejs,mongodb,docker,cloudflare" />
   </a>
 </p>
 
