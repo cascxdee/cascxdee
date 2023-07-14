@@ -9,6 +9,4 @@ Find me on [Discord](https://discord.gg/47fWbK5QYB) or over at [Twitter](https:/
 </h1>
 
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlghtleak&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlghtleak&layout=donut)](https://github.com/Not-Jayy/github-readme-stats)
-
-<img src="https://cdn.discordapp.com/attachments/1103912751157485570/1126975788256854147/nlghtleak.png">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlghtleak&layout=donut)](https://github.com/nlghtleak/github-readme-stats)
