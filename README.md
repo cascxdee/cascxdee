@@ -1,13 +1,11 @@
-# 👋 Hi i'm Jay
-I’m Jay, just your average 16-year-old from the United Kingdom. I love to play around with keyboards and develop things whenever I have the chance, thanks for stopping by!
-Find me on [Discord](https://discord.gg/47fWbK5QYB) or over at [Twitter](https://twitter.com/nlghtleak)
+# 👋 I'm Jay
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/1103912751157485570/1129495068403834910/standard.gif"/> </p>
+<p align="center">Just your average 16-year-old from the United Kingdom. I love to play around with keyboards and develop things whenever I have the chance, thanks for stopping by!</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python,nodejs,mongodb,git,docker"/> </p>
 
-# Languages / Technologies
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python,nodejs,mongodb,docker,cloudflare" />
-  </a>
-</p>
-
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlghtleak&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlghtleak&layout=donut)](https://github.com/nlghtleak/github-readme-stats)
+<details>
+  <summary>Statistics</summary>
+  
+  [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlghtleak&show_icons=true&theme=midnight-purple)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlghtleak&layout=donut-vertical)](https://github.com/nlghtleak/github-readme-stats)
+</details>
