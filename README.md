@@ -1,6 +1,6 @@
 # 👋 I'm Jay
-<p align="center">Just your average 16-year-old from the United Kingdom. I love to play around with keyboards and develop things whenever I have the chance, thanks for stopping by!</p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python,nodejs,mongodb,git,docker"/> </p>
+<p> Just your average 16-year-old from the United Kingdom, Developing things whenever I have the chance.</p>
+<p> <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python,nodejs,mongodb,git,docker"/> </p>
 
 <details>
   <summary>Statistics</summary>
