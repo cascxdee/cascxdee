@@ -1,7 +1,7 @@
 <img align="center" height="500" src="https://cdn.discordapp.com/attachments/1103912751157485570/1131615353596821524/nlghtleak.png"/>
 
 ## Languages / Tools
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python,nodejs,vscode,cloudflare,mongodb,git,discord" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python,nodejs,vscode,cloudflare,mongodb,git,docker,discord" />
 
 <details>
   <summary>Statistics</summary>
