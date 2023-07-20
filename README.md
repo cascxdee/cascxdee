@@ -3,6 +3,8 @@
 ## Languages / Tools
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,lua,python,nodejs,vscode,cloudflare,mongodb,git,docker,discord" />
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/697541992770437130)](https://discord.com/users/697541992770437130)
+
 <details>
   <summary>Statistics</summary>
   
