@@ -8,6 +8,6 @@
 <details>
   <summary>Statistics</summary>
   
-  [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlghtleak&show_icons=true&theme=midnight-purple)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlghtleak&layout=donut-vertical)](https://github.com/nlghtleak/github-readme-stats)
+  [Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlghtleak&show_icons=true&theme=midnight-purple)
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlghtleak&layout=donut-vertical)](https://github.com/nlghtleak/github-readme-stats)
 </details>
