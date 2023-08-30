@@ -10,4 +10,3 @@ These do NOT represent skill or experience, it is just what I have previously us
 ## 📡 Contact
 - [Twitter](https://twitter.com/nlghtleak)
 - [Discord](https://discord.com/users/697541992770437130)
-- [Email](mailto:nlghtleaklyjay@gmail.com)
