@@ -1,6 +1,4 @@
-<h1 align="center">
-  👋 hi, i'm Jay.
-</h1>
+<h1 align="center">👋 hi, i'm Jay.</h1>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N1QZ9Y4)
 
