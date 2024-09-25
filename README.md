@@ -3,10 +3,10 @@
 ## About
 just your average 17 year old self-taught developer and college student from the UK.
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,lua,html,css,nodejs,mongodb,discord,discordjs,cloudflare,vscode,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,lua,html,css,nodejs,mongodb,discord,discordjs,cloudflare,vscode,git)](https://skillicons.dev)
 
 ## currently trying to learn
-[![Learning](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=ts,java)](https://skillicons.dev)
 
 ## Links and stuff
 - [Discord](https://discord.com/users/697541992770437130)
