@@ -1,19 +1,12 @@
-<h1 align="center">👋 hi, i'm Jay.</h1>
+<h3 align="center">just a dev from the uk</h3>
 
-## About
-just your average 17 year old self-taught developer and college student from the UK.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,lua,java,mongodb" />
+  </a>
+</p>
 
-[![Skills](https://skillicons.dev/icons?i=js,lua,html,css,nodejs,mongodb,discord,discordjs,cloudflare,vscode,git)](https://skillicons.dev)
 
-## currently trying to learn
-[![Learning](https://skillicons.dev/icons?i=ts,java)](https://skillicons.dev)
-
-## Links and stuff
-- [Discord](https://discord.com/users/697541992770437130)
-- [Twitter](https://x.com/cascxdee)
-- [Portfolio](https://jayts.notion.site/Portfolio-8e8ec6782981416a9f9383475756c591?pvs=4)
-
-## Statistics
-![Github stats](https://github-readme-stats.vercel.app/api?username=cascxdee&theme=aura_dark&count_private=true&hide_border=true&line_height=20)
+<img src="https://cdn.discordapp.com/attachments/1288901885633232960/1288984335764164628/meow.png?ex=66f72bb5&is=66f5da35&hm=1cb82ef6c7a7fbf7a6decfbfecdec6f228970aa362d18dd97ba0bb8d788816e1&"></img>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N1QZ9Y4)
