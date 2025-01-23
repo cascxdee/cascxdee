@@ -17,7 +17,6 @@
 ## other stuff
 * [portfolio](https://jayts.notion.site/Portfolio-8e8ec6782981416a9f9383475756c591?pvs=74)
 * [personal server](https://discord.gg/2xjSuhvP36)
-* [twitter](https://x.com/cascxdee)
 
 <a href="https://ko-fi.com/N4N1QZ9Y4">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
